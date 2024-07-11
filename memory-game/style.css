@@ -1,0 +1,22 @@
+.container{
+    width: 600px;
+    height: 400px;
+    background-color: pink;
+}
+.above{
+    width: 600px;
+    height: 200px;
+    display: flex;
+}
+.under{
+    width: 600px;
+    height: 200px;
+    display: flex;
+}
+
+.one, .two, .three, .four, .five, .six{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
